@@ -4,7 +4,8 @@ Application of questions and points using the Kotlin language
 Implimntaions :
 
 - Kotlin 100%
-- Roam database
+- Roam 
+- Arrays
 - Lotti Files
 
 ![OWINJ61](https://user-images.githubusercontent.com/96925663/226141555-bc95fed7-a890-4469-ba9a-9d643fb3f509.png)
